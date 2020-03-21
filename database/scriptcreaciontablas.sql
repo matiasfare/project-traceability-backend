@@ -205,6 +205,6 @@ INSERT INTO ROL(nombre, descripcion) VALUES('Team Leader','Lider de proyectos');
 
 INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (1, 1);
 INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (2, 2);
-INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (3, 3);
-INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (4, 3);
-INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (5, 2);
+INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (2, 3);
+INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (3, 4);
+INSERT INTO usuario_rol_proyecto (id_rol, id_usuario) values (3, 5);
